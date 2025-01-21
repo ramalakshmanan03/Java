@@ -4,5 +4,6 @@ public class Vowels {
         Scanner sc = new Scanner(System.in);
         String ch = sc.next();
         System.out.println(ch);
+        System.out.println("Hello world");
     }
 }
